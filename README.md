@@ -74,6 +74,15 @@ Istio is a service mesh that provides advanced service management for microservi
 
 ---
 
+## To-Do List Web App
+[To-Do List Web App](https://github.com/Muhammad-Ahmed-Sohail/To-Do-List-Web-App.git)
+
+This To-Do List web app is a simple, visually appealing application built with HTML, CSS, and JavaScript. It allows users to manage their tasks effectively by adding, deleting, and marking tasks as completed. The app offers different theme options for customization and stores tasks in local storage, ensuring they persist even when the page is reloaded.
+
+In addition to its functionality, this project demonstrates essential DevOps practices. It includes version control with Git and GitHub, continuous integration with GitHub Actions to automate code quality checks, and containerization with Docker for consistent deployment across environments. 
+
+This project provides a solid foundation for task management while showcasing DevOps principles in action.
+
 ## Additional Resources
 For further learning, you may refer to:
 - [Official Kubernetes Documentation](https://kubernetes.io/docs/)
